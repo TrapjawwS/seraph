@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../data/mods/gen8/learnsets.ts"],
+  "sourcesContent": ["export const Learnsets: {[k: string]: ModdedLearnsetData} = {\n\tvivillonfancy: {\n\t\tinherit: true,\n\t\teventOnly: true,\n\t},\n};\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,YAA+C;AAAA,EAC3D,eAAe;AAAA,IACd,SAAS;AAAA,IACT,WAAW;AAAA,EACZ;AACD;",
+  "names": []
+}
