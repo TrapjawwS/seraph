@@ -126,6 +126,18 @@
     --text-glow: #000000
 }
 
+:root.theme-subzero {
+    --background-image: url('../../images/backgrounds/subzero/gamesbg.png');
+    --font-family: 'Ubuntu', sans-serif;
+    --text-color: rgb(255,255,255); 
+    --border-color1: rgb(19, 17, 139);
+    --border-color2: rgb(0, 0, 153);
+    --background-color: rgb(0, 4, 78);
+    --hover-color: rgb(10, 15, 112);
+    --text-glow: rgb(34, 13, 110);
+}
+
+
 html {
     scroll-behavior: smooth;
 }
@@ -146,7 +158,10 @@ body {
     animation: fadein 0.75s forwards ease-in-out;
 
     background-image: var(--background-image);
-    background-repeat: repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 
     color: var(--text-color);
     cursor: none;
