@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../data/mods/gen7pokebilities/random-teams.ts"],
-  "sourcesContent": ["import RandomGen7Teams from '../gen7/random-teams';\n\nexport class RandomGen7PokebilitiesTeams extends RandomGen7Teams {}\n\nexport default RandomGen7PokebilitiesTeams;\n"],
-  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,0BAA4B;AAErB,MAAM,oCAAoC,oBAAAA,QAAgB;AAAC;AAElE,IAAO,uBAAQ;",
-  "names": ["RandomGen7Teams"]
-}

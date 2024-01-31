@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../data/mods/partnersincrime/random-teams.ts"],
-  "sourcesContent": ["import RandomTeams from '../../random-teams';\n\nexport class RandomPartnersInCrimeTeams extends RandomTeams {}\n\nexport default RandomPartnersInCrimeTeams;\n"],
-  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,0BAAwB;AAEjB,MAAM,mCAAmC,oBAAAA,QAAY;AAAC;AAE7D,IAAO,uBAAQ;",
-  "names": ["RandomTeams"]
-}
