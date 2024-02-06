@@ -9,9 +9,9 @@
     <a href="https://discord.gg/ZyZDmx3zuQ">discord server</a>
     <br>
     <br>
-    <img src="https://img.shields.io/github/repo-size/a456pur/seraph?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
-    <img src="https://img.shields.io/github/stars/a456pur/seraph?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
-    <img src="https://img.shields.io/github/forks/a456pur/seraph?style=for-the-badge&labelColor=000000&color=1c1c1c">
+    <img src="https://img.shields.io/github/repo-size/TrapjawwS/seraph?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
+    <img src="https://img.shields.io/github/stars/TrapjawwS/seraph?style=for-the-badge&labelColor=%23000000&color=%231c1c1c">
+    <img src="https://img.shields.io/github/forks/TrapjawwS/seraph?style=for-the-badge&labelColor=000000&color=1c1c1c">
   </p>
 
 ## features
