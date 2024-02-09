@@ -1,0 +1,20 @@
+{
+    "name": "seraph",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "scripts": {
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/TrapjawwS/seraph"
+    },
+    "author": "TrapjawwS",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/TrapjawwS/seraph/issues"
+    },
+    "homepage": "https://github.com/TrapjawwS/seraph#readme",
+    "dependencies": {
+    }
+  }
